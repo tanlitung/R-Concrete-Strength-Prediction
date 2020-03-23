@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584850573058.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "518655978",
+    "id" : "3A6FAA91",
+    "lastKnownWriteTime" : 1584971058,
+    "last_content_update" : 1584971058078,
+    "path" : "C:/Users/Tan Li Tung/Desktop/code/r/Concrete Strength Prediction/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "491,26",
+        "scrollLine" : "469"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
