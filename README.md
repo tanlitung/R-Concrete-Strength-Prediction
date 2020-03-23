@@ -4,8 +4,8 @@ This is a modified version of the AI Project. Similar to AI Project, this is an 
 # Setup
 Clone or download the repository.
 ```
-$ git clone https://github.com/tanlitung388/AI-Project
-$ cd AI-Project
+$ https://github.com/tanlitung388/R-Concrete-Strength-Prediction.git
+$ cd R-Concrete-Strength-Prediction
 ```
 # Main Program
 The main program is the file "app.R". To run the file, click the green play button at the top right corner of the RStudio editor. You will be promted to install the packages and libraries, make sure you allow the installation.
