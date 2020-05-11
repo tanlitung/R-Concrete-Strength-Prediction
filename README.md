@@ -4,11 +4,11 @@ This is a modified version of the AI Project. Similar to AI Project, this is an 
 # Setup
 Clone or download the repository.
 ```
-$ https://github.com/tanlitung388/R-Concrete-Strength-Prediction.git
+$ https://github.com/tanlitung/R-Concrete-Strength-Prediction.git
 $ cd R-Concrete-Strength-Prediction
 ```
 # Main Program
 The main program is the file "app.R". To run the file, click the green play button at the top right corner of the RStudio editor. You will be promted to install the packages and libraries, make sure you allow the installation.
 
 # Preview
-![alt text](https://github.com/tanlitung388/R-Concrete-Strength-Prediction/raw/master/Video/Concrete-Strength-Prediction.gif "Preview")
+![alt text](https://github.com/tanlitung/R-Concrete-Strength-Prediction/raw/master/Video/Concrete-Strength-Prediction.gif "Preview")
